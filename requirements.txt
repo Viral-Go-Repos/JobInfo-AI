@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+spacy
+streamlit
+plotly
+python-dateutil
+tqdm
+beautifulsoup4
+pyarrow
