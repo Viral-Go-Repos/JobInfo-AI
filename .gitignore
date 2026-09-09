@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+.env.*
+
+# Data & caches
+data/
+*.parquet
+*.csv
+
+# Streamlit
+.streamlit/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
