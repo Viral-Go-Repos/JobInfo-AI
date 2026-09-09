@@ -1,5 +1,5 @@
 
-# AI Job Insights Dashboard
+# Job Info AI Dashboard
 
 An open, interpretable pipeline that collects job postings, extracts in-demand technical skills using rule-based NLP, and visualizes hiring trends in a Streamlit dashboard.
 
